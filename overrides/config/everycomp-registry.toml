@@ -29,6 +29,19 @@
 	[wood_type.integrateddynamics]
 		menril = true
 
+	[wood_type.the_bumblezone]
+		beehive_beeswax = true
+
+	[wood_type.twilightforest]
+		twilight_oak = true
+		canopy = true
+		mangrove = true
+		dark = true
+		time = true
+		transformation = true
+		mining = true
+		sorting = true
+
 [leaves_type]
 
 	[leaves_type.minecraft]
@@ -48,4 +61,17 @@
 		earth_slime = true
 		sky_slime = true
 		ender_slime = true
+
+	[leaves_type.twilightforest]
+		twilight_oak = true
+		canopy = true
+		mangrove = true
+		dark = true
+		time = true
+		transformation = true
+		mining = true
+		sorting = true
+		thorn = true
+		beanstalk = true
+		rainbow_oak = true
 

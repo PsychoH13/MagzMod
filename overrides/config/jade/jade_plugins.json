@@ -59,5 +59,8 @@
   },
   "lootr": {
     "info": true
+  },
+  "productivebees": {
+    "bee_attributes": true
   }
 }

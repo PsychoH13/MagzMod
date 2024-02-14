@@ -1,7 +1,0 @@
-type = last_world
-
-last_world {
-  is_server = false
-  world = /home/mago5/.local/share/atlauncher/instances/EmptyVisions/saves/Humongous Goblin Butts
-}
-
